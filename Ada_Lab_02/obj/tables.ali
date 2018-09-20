@@ -1,0 +1,105 @@
+V "GNAT Lib v2018"
+A -gnatA
+A -gnat12
+A -g
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV NO_IO
+RV NO_DYNAMIC_SIZED_OBJECTS
+RV NO_IMPLEMENTATION_PRAGMAS
+RV SPARK_05
+
+U tables%b		tables.adb		4db4bfdd NE OO PK
+Z interfaces%s		interfac.ads		interfac.ali
+Z system.concat_4%s	s-conca4.adb		s-conca4.ali
+Z system.img_int%s	s-imgint.adb		s-imgint.ali
+
+U tables%s		tables.ads		f7620092 EE NE OO PK
+W ada%s			ada.ads			ada.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+
+D ada.ads		20180524051736 76789da1 ada%s
+D a-except.ads		20180524051736 291912d5 ada.exceptions%s
+D a-ioexce.ads		20180524051736 e4a01f64 ada.io_exceptions%s
+D a-stream.ads		20180524051736 119b8fb3 ada.streams%s
+D a-tags.ads		20180524051738 491b781d ada.tags%s
+D a-textio.ads		20180524051738 881db35a ada.text_io%s
+D a-unccon.ads		20180524051738 0e9b276f ada.unchecked_conversion%s
+D interfac.ads		20180524051736 5ab55268 interfaces%s
+D i-cstrea.ads		20180524051736 e53d8b8e interfaces.c_streams%s
+D system.ads		20180524051738 32a08138 system%s
+D s-conca4.ads		20180524051738 7e642b20 system.concat_4%s
+D s-crtl.ads		20180524051736 0ebbdb71 system.crtl%s
+D s-exctab.ads		20180524051738 54135002 system.exception_table%s
+D s-ficobl.ads		20180524051738 078245e4 system.file_control_block%s
+D s-imgint.ads		20180524051736 02dbe0c2 system.img_int%s
+D s-parame.ads		20180524051738 48ec542b system.parameters%s
+D s-secsta.ads		20180524051738 20bbe636 system.secondary_stack%s
+D s-soflin.ads		20180524051736 a7318a92 system.soft_links%s
+D s-stache.ads		20180524051738 a37c21ec system.stack_checking%s
+D s-stalib.ads		20180524051738 09bd3940 system.standard_library%s
+D s-stoele.ads		20180524051738 2dc34a04 system.storage_elements%s
+D s-traent.ads		20180524051736 005bf670 system.traceback_entries%s
+D s-unstyp.ads		20180524051736 34867c83 system.unsigned_types%s
+D s-wchcon.ads		20180524051738 1b7d22d2 system.wch_con%s
+D tables.ads		20180920094652 7f7fb3c8 tables%s
+D tables.adb		20180920100858 32cb0c15 tables%b
+X 1 ada.ads
+16K9*Ada 20e8 25|9r6 9r23
+X 6 a-textio.ads
+49K13*Text_IO 471e16 25|9w10 9r27
+263U14*Put_Line 26|66s10 111s11
+X 25 tables.ads
+10K9*Tables 59l5 59e11 26|1b14 135l5 135t11
+13A9*T_Table(integer)<integer> 15r30 19r15 25r15 29r41 36r22 41r42 44r45
+. 47r45 50r41 53r41 56r41 26|2r30 20r15 30r15 63r18 71r22 81r42 96r45 115r45
+. 120r41 125r41 130r41
+15V13*Minimum{integer} 15>22 26|2b13 17l8 17t15
+15a22 Table{13A9} 26|2b22 5r10 6r15 11r16 12r13 13r20
+18V13*Linear_Search{integer} 19>7 19>24 26|19b13 27l8 27t21
+19a7 Table{13A9} 26|20b7 23r10 24r15
+19i24 Value{integer} 26|20b24 24r21
+24V13*Binary_Search{integer} 25>7 25>24 26|29b13 50l8 50t21
+25a7 Table{13A9} 26|30b7 32r18 34r25 35r25 40r13 42r22
+25i24 Value{integer} 26|30b24 40r27 41r20 42r16
+29U14*MostrarVector 29>30 26|62b14 68l8 68t21 110s10
+29a30 Table{13A9} 26|63b7 65r19 66r75
+30U14*Swap 31=7 32=7 26|52b14 59l8 59t12 76s7
+31i7 A{integer} 26|53b7 55r17 57m7
+32i7 B{integer} 26|54b7 57r10 58m7
+35U14*Swap 36=7 37>7 38>7 26|70b14 77l8 77t12 88s16 107s13
+36a7 Table{13A9} 26|71b7 76m12 76r12 76m26 76r26
+37i7 Pos_1{natural} 26|72b7 76r18
+38i7 Pos_2{natural} 26|73b7 76r32
+41U14*Bubble_Sort 41=27 26|81b14 94l8 94t19
+41a27 Table{13A9} 26|81b27 84r16 85r19 85r32 87r16 87r25 88m21
+44U14*Selection_Sort 44=30 26|96b14 113l8 113t22
+44a30 Table{13A9} 26|96b30 97r19 101r16 104r16 104r26 107m18 110r24
+47U14*Insertion_Sort 47=30 26|115b14 118l8 118t22
+47a30 Table{13A9} 26|115b30
+50U14*Shell_Sort 50=26 26|120b14 123l8 123t18
+50a26 Table{13A9} 26|120b26
+53U14*Merge_Sort 53=26 26|125b14 128l8 128t18
+53a26 Table{13A9} 26|125b26
+56U14*Quick_Sort 56=26 26|130b14 133l8 133t18
+56a26 Table{13A9} 26|130b26
+X 26 tables.adb
+3i4 aux{integer} 6m10 8m10 12r25 13m13 16r14
+11i11 I{integer} 12r19 13r26
+21i4 aux{integer} 24m10 26r14
+32i7 n{integer}
+33i7 centro{integer} 39m10 40r19 42r28 43r24 45r24
+34i7 inferior{integer} 38r13 39r29 45m13
+35i7 superior{integer} 38r24 39r20 43m13
+55i4 aux{integer} 58r10
+65i14 I{integer} 66r43 66r81
+84i11 i{integer} 85r43
+85i14 j{integer} 87r22 87r31 88r29 88r32
+97i7 n{integer} 103r26
+98i7 min_idx{integer} 102m10 104r32 105m16 107r29
+101i11 i{integer} 102r20 103r19 107r26
+103i14 j{integer} 104r22 105r25
+
