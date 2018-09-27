@@ -1,0 +1,12 @@
+20180927092742
+-c
+-x
+ada
+-gnatA
+-g
+-gnato
+-fstack-check
+-gnata
+-gnat12
+-gnatc
+-gnates=C:\Users\usuario\Downloads\SPARK_Lab_02c\SPARK_Lab_02\obj\gnatprove\2dfafb6f.tmp

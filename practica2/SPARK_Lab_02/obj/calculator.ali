@@ -1,0 +1,37 @@
+V "GNAT Lib v2018"
+A -gnatA
+A -g
+A -gnato
+A -fstack-check=specific
+A -gnata
+A -gnat12
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV NO_IMPLEMENTATION_PRAGMAS
+
+U calculator%b		calculator.adb		ec5b96b6 NE OO PK
+Z system.assertions%s	s-assert.adb		s-assert.ali
+
+U calculator%s		calculator.ads		e90331f9 EE NE OO PK
+
+D ada.ads		20180524051736 76789da1 ada%s
+D a-unccon.ads		20180524051738 0e9b276f ada.unchecked_conversion%s
+D calculator.ads	20180927092658 e90331f9 calculator%s
+D calculator.adb	20180927092038 0558a74f calculator%b
+D system.ads		20180524051738 32a08138 system%s
+D s-assert.ads		20180524051738 cd8d2c94 system.assertions%s
+D s-exctab.ads		20180524051738 54135002 system.exception_table%s
+D s-stalib.ads		20180524051738 09bd3940 system.standard_library%s
+X 3 calculator.ads
+1K9*Calculator 22l5 22e15 4|1b14 19l5 19t15
+3V13*Add{integer} 4>7 5>7 8r17 4|3b13 9l8 9t11
+4i7 First_Operand{integer} 7r17 8r30 4|4b7 8r13
+5i7 Second_Operand{integer} 7r33 8r44 4|5b7 8r27
+12U14*Subtract 13>7 14>7 15<7 4|11b14 17l8 17t16
+13i7 First_Operand{integer} 18r26 4|12b7 16r17
+14i7 Second_Operand{integer} 18r42 4|13b7 16r31
+15i7 Result{integer} 18r17 4|14b7 16m7
+
