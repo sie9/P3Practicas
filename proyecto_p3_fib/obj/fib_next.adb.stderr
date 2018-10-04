@@ -1,0 +1,2 @@
+fib_next.adb:10:07: warning: variable "nomVariable" is read but never assigned
+fib_next.adb:27:07: warning: variable "nomVariable" is read but never assigned

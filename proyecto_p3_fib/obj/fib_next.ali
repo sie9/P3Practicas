@@ -1,0 +1,38 @@
+V "GNAT Lib v2018"
+A -gnatA
+A -gnat12
+A -g
+A -mtune=generic
+A -march=x86-64
+P SS ZX
+
+RN
+RV NO_SECONDARY_STACK
+RV NO_DYNAMIC_SIZED_OBJECTS
+RV NO_IMPLEMENTATION_PRAGMAS
+RV SPARK_05
+
+U fib_next%b		fib_next.adb		ecb043b5 NE OO PK IL
+Z system.secondary_stack%s  s-secsta.adb	s-secsta.ali
+
+U fib_next%s		fib_next.ads		9fcea7e7 EE NE OO PK IL
+
+D fib_next.ads		20181004093616 9fcea7e7 fib_next%s
+D fib_next.adb		20181004093828 737ee452 fib_next%b
+D system.ads		20180524051738 32a08138 system%s
+D s-parame.ads		20180524051738 48ec542b system.parameters%s
+D s-secsta.ads		20180524051738 20bbe636 system.secondary_stack%s
+D s-stoele.ads		20180524051738 2dc34a04 system.storage_elements%s
+X 1 fib_next.ads
+3K9*Fib_next 22l5 22e13 2|2b14 32l5 32t13
+5A8*Arrayfib(integer)<integer> 8r31 13r15 14r31 2|8r31 10r20 24r15 25r31
+. 27r20
+7V13*Serie_fib_until_number{5A8} 8>7 2|7b13 14l8 14t30
+8i7 numEnd{integer} 2|8b7
+12V13*find_fib_multiplied_subsequents{5A8} 13>7 14>7 2|23b13 30l8 30t39
+13a7 fib{5A8} 2|24b7
+14i7 Value{integer} 2|25b7
+X 2 fib_next.adb
+10a7 nomVariable{1|5A8} 13r14
+27a7 nomVariable{1|5A8} 29r14
+

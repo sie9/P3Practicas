@@ -1,0 +1,22 @@
+[GENERATED OBJECT FILE]
+b__run_all_tests.o
+[PROJECT FILES]
+C:\Users\usuario\Desktop\proyecto_p3_fib\default.gpr
+20181004091318
+[BOUND OBJECT FILES]
+C:\Users\usuario\Desktop\proyecto_p3_fib\obj\assertions.o
+C:\Users\usuario\Desktop\proyecto_p3_fib\obj\Fib_next.o
+C:\Users\usuario\Desktop\proyecto_p3_fib\obj\test_FIB.o
+C:\Users\usuario\Desktop\proyecto_p3_fib\obj\run_all_tests.o
+[GENERATED SOURCE FILES]
+b__run_all_tests.ads
+b__run_all_tests.adb
+b__run_all_tests.ali
+[RESULTING OPTIONS]
+-LC:\Users\usuario\Desktop\proyecto_p3_fib\obj\
+-LC:\Users\usuario\Desktop\proyecto_p3_fib\obj\
+-LC:/gnat/2018/lib/gcc/x86_64-pc-mingw32/7.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2018/lib/gcc/x86_64-pc-mingw32/7.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000

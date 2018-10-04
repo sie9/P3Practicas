@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file />
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\usuario\Desktop\proyecto_p3_fib\default.gpr</vfs_project>
+      <vfs_file>C:\Users\usuario\Desktop\proyecto_p3_fib\src\run_all_tests.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 5" >
+      <vfs_project>C:\Users\usuario\Desktop\proyecto_p3_fib\default.gpr</vfs_project>
+      <vfs_file>C:\Users\usuario\Desktop\proyecto_p3_fib\src\run_all_tests.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\usuario\Desktop\proyecto_p3_fib\default.gpr</vfs_project>
+      <vfs_file>C:\Users\usuario\Desktop\proyecto_p3_fib\src\test_strings.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\usuario\Desktop\proyecto_p3_fib\default.gpr</vfs_project>
+      <vfs_file>C:\Users\usuario\Desktop\proyecto_p3_fib\src\strings.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\usuario\Desktop\proyecto_p3_fib\default.gpr</vfs_project>
+      <vfs_file>C:\Users\usuario\Desktop\proyecto_p3_fib\src\Fib_next.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\usuario\Desktop\proyecto_p3_fib\default.gpr</vfs_project>
+      <vfs_file>C:\Users\usuario\Desktop\proyecto_p3_fib\src\test_strings.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\usuario\Desktop\proyecto_p3_fib\default.gpr</vfs_project>
+      <vfs_file>C:\Users\usuario\Desktop\proyecto_p3_fib\src\Fib_next.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 40" line=" 14" >
+      <vfs_project>C:\Users\usuario\Desktop\proyecto_p3_fib\default.gpr</vfs_project>
+      <vfs_file>C:\Users\usuario\Desktop\proyecto_p3_fib\src\Fib_next.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\usuario\Desktop\proyecto_p3_fib\default.gpr</vfs_project>
+      <vfs_file>C:\Users\usuario\Desktop\proyecto_p3_fib\src\strings.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\usuario\Desktop\proyecto_p3_fib\default.gpr</vfs_project>
+      <vfs_file>C:\Users\usuario\Desktop\proyecto_p3_fib\src\Fib_next.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\usuario\Desktop\proyecto_p3_fib\default.gpr</vfs_project>
+      <vfs_file>C:\Users\usuario\Desktop\proyecto_p3_fib\src\run_all_tests.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project>C:\Users\usuario\Desktop\proyecto_p3_fib\default.gpr</vfs_project>
+      <vfs_file>C:\Users\usuario\Desktop\proyecto_p3_fib\src\test_strings.adb</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <vfs_file >C:\Users\usuario\Desktop\proyecto_p3_fib\default.gpr</vfs_file>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >C:\Users\usuario\Desktop\proyecto_p3_fib\default.gpr</vfs_project>
+      <vfs_file >C:\Users\usuario\Desktop\proyecto_p3_fib\src\run_all_tests.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 5">
+      <vfs_project >C:\Users\usuario\Desktop\proyecto_p3_fib\default.gpr</vfs_project>
+      <vfs_file >C:\Users\usuario\Desktop\proyecto_p3_fib\src\run_all_tests.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >C:\Users\usuario\Desktop\proyecto_p3_fib\default.gpr</vfs_project>
+      <vfs_file >C:\Users\usuario\Desktop\proyecto_p3_fib\src\test_strings.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >C:\Users\usuario\Desktop\proyecto_p3_fib\default.gpr</vfs_project>
+      <vfs_file >C:\Users\usuario\Desktop\proyecto_p3_fib\src\strings.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >C:\Users\usuario\Desktop\proyecto_p3_fib\default.gpr</vfs_project>
+      <vfs_file >C:\Users\usuario\Desktop\proyecto_p3_fib\src\Fib_next.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >C:\Users\usuario\Desktop\proyecto_p3_fib\default.gpr</vfs_project>
+      <vfs_file >C:\Users\usuario\Desktop\proyecto_p3_fib\src\test_strings.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >C:\Users\usuario\Desktop\proyecto_p3_fib\default.gpr</vfs_project>
+      <vfs_file >C:\Users\usuario\Desktop\proyecto_p3_fib\src\Fib_next.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 40" line=" 14">
+      <vfs_project >C:\Users\usuario\Desktop\proyecto_p3_fib\default.gpr</vfs_project>
+      <vfs_file >C:\Users\usuario\Desktop\proyecto_p3_fib\src\Fib_next.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >C:\Users\usuario\Desktop\proyecto_p3_fib\default.gpr</vfs_project>
+      <vfs_file >C:\Users\usuario\Desktop\proyecto_p3_fib\src\strings.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >C:\Users\usuario\Desktop\proyecto_p3_fib\default.gpr</vfs_project>
+      <vfs_file >C:\Users\usuario\Desktop\proyecto_p3_fib\src\Fib_next.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >C:\Users\usuario\Desktop\proyecto_p3_fib\default.gpr</vfs_project>
+      <vfs_file >C:\Users\usuario\Desktop\proyecto_p3_fib\src\run_all_tests.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1">
+      <vfs_project >C:\Users\usuario\Desktop\proyecto_p3_fib\default.gpr</vfs_project>
+      <vfs_file >C:\Users\usuario\Desktop\proyecto_p3_fib\src\test_strings.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
